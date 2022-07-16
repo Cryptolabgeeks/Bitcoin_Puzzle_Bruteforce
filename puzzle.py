@@ -27,8 +27,8 @@ num_of_temp_file = 100
 pub_addr_searched = "16jY7qLJnxb7CHZyqBP8qca9d51gAjyXQN"
 
 # Range in wich you want to search the address
-start = "8000000000000000"
-end = "ffffffffffffffff"
+start = "ff696cff930f2ccb"
+end = "fffffffffffc66e0"
 
 
 
