@@ -24,11 +24,11 @@ addr_per_thread = 7000000000
 num_of_temp_file = 100
 
 #The searched address
-pub_addr_searched = "16jY7qLJnxb7CHZyqBP8qca9d51gAjyXQN"
+pub_addr_searched = "19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG"
 
 # Range in wich you want to search the address
-start = "ff696cff930f2ccb"
-end = "fffffffffffc66e0"
+start = "122fca143c05917e4f"
+end = "1fa5ee5fd2f72fe97b"
 
 
 
